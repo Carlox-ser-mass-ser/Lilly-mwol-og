@@ -11,14 +11,14 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="CARLOX-MASS-SER" src="https://img.shields.io/badge/CARLOX-MASS-SER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CARLOX-SER-MASS-SER" src="https://img.shields.io/badge/CARLOX-SER-MASS-SER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Carlox-mass-ser"><img title="Author" src="https://img.shields.io/badge/Author-Carlox-mass-ser/lillymwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Carlox-ser-mass-ser"><img title="Author" src="https://img.shields.io/badge/Author-Carlox-mass-ser/lillymwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Carlox-mass-ser/Lilly-mwol">Carlox-mass-ser</a> to make it public
+Project created by <a href="https://github.com/Carlox-ser-mass-ser/Lilly-mwol">Carlox-mass-ser</a> to make it public
     <br>
        | Â© |
         Reserved |
@@ -44,7 +44,7 @@ Project created by <a href="https://github.com/Carlox-mass-ser/Lilly-mwol">Carlo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlox-mass-ser&show_icons=true&theme=dark&locale=en" alt="Carlox-mass-ser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlox-mass-ser&theme=dark" alt="Carlox-mass-ser" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlox-mass-ser&theme=dark" alt="Carlox-ser-mass-ser" /></p>
 </p>
 
 
@@ -73,7 +73,7 @@ Click Pikachu logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Carlox-mass-ser/Lilly-mwol.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol.git)
      </div>
 <br>
 <br >
@@ -93,7 +93,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Carlox-mass-ser/Lilly-mwol
+$ git clone https://github.com/Carlox-ser-mass-ser/Lilly-mwol
 $ cd Lilly-mwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -103,7 +103,7 @@ $ node qr.js
       
 js
 SETUP
-$ git clone https://github.com/Carlox-mass-ser/Lilly-mwol
+$ git clone https://github.com/Carlox-ser-mass-ser/Lilly-mwol
 $ cd Lillymwol
 $ chmod +x *
 $ npm i
@@ -117,7 +117,7 @@ $ node bot.js
 
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Pikachu executives do not accept responsibility.
+Absolutely, Lilly-mwol-ser executives do not accept responsibility.
 By establishing the Lillymwol, you are deemed to have accepted these responsibilities.
 
 
@@ -128,7 +128,7 @@ By establishing the Lillymwol, you are deemed to have accepted these responsibil
             CARLOX-SER
          
 
-MASS-SER-CARLOX:-(https://github.com/Carlox-mass-ser) 
+MASS-SER-CARLOX:-(https://github.com/Carlox-ser-mass-ser) 
   </div>
 
 ## Contributors
