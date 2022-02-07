@@ -1,11 +1,9 @@
 {
     "name": "Pikachu",
-    "description": "Pikachu - Whatsapp Bot",
-    "logo": "https://i.imgur.com/W0i7oMY.jpeg",
+    "description": "Lilly-mwol",
+    "logo": "https://avatars.githubusercontent.com/u/99211048?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "repository": "https://github.com/",
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
