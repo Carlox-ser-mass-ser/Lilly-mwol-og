@@ -10,8 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://pin.it/7agXDA6/wp-content/uploads/CARLOX-MASS-SER-dowload.jpg";
-    
+    r_text[0] = "https://pin.it/7agXDA6.jpg";
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
