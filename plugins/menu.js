@@ -17,10 +17,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Carlox & Mass✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Carlox - Mass✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Carlox & Mass 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Carlox - Mass 𝐛𝐨𝐭.
             *LillyMwol*
 
 ■□■□■□■□■□■□■□■□■□■□
@@ -120,7 +120,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime pikachu
+⚠️anime lillyMwol
 ■□■□■□■□■LillyMwol□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
@@ -135,7 +135,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ⚠️ex  attp LillyMwol
 ■□■□■□■□■□■□■□■□■□■□
 ═════💢LillyMwol💢═════
-▣▣▣▣▣▣▣▣▣Carlox & Mass▣▣▣▣▣▣▣▣▣▣▣
+▣▣▣▣▣▣▣▣▣Carlox&Mass▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
