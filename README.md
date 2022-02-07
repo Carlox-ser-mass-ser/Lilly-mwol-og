@@ -7,6 +7,16 @@
 
 ## [![Lilly-mwol](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+lillymwol+WA+Bot+repo;Created+by+carlox+mass-ser;This+is+the+Best++Bgm+bot;CREATED+BY+CARLOX-MASS-SER)](https://bit.ly/2VM4lxF)
 
+        
+        
+        [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol) 
+        
+        
+        
+        
+        
+        
+        
  </a>
 </p>
 <div align="center">
