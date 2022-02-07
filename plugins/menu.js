@@ -19,7 +19,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 
 𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Ameer Suhail 𝐛𝐨𝐭.
-            *Pikachu*
+            *LillyMwol*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
