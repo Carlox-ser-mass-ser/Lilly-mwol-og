@@ -135,7 +135,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ⚠️ex  attp LillyMwol
 ■□■□■□■□■□■□■□■□■□■□
 ═════💢LillyMwol💢═════
-▣▣▣▣▣▣▣▣▣ameersuhail▣▣▣▣▣▣▣▣▣▣▣
+▣▣▣▣▣▣▣▣▣Carlox & Mass▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
