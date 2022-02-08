@@ -94,7 +94,7 @@ if (Config.WORKTYPE == 'private') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*Made By Pikachu*'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*Made By LillyMwol*'})
 
     }));
 }
@@ -183,12 +183,13 @@ else if (Config.WORKTYPE == 'public') {
     r_text[76] = "https://i.ibb.co/0YNzZxQ/IMG-20210410-WA0317.jpg";
     r_text[77] = "https://i.ibb.co/T0KbLFN/IMG-20210410-WA0318.jpg";
     r_text[78] = "https://i.ibb.co/wgQWTKy/IMG-20210410-WA0319.jpg";
+    r_text[79] = "https://i.imgur.com/95mWzco.jpeg";
 
     var i = Math.floor(79*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*Made By Pikachu*'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*Made By LillyMwol*'})
 
     }));
 }
