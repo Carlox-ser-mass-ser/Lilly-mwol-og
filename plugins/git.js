@@ -12,6 +12,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*LILLY_MWOLE CREATED BY CARLOX_MASS-SER*
 *Creator number : http://wa.me/918078073223?text=Hi%20Mass%20Ser.%20*
 
+*Cerator number : http://wa.me/917356835535?text=Hi%20Carlox%20Ser.%20*
+
 *CARLOX INSTAGRAM : https://instagram.com/__.carlox.__?utm_medium=copy_link
 
 *MASS INSTAGRAM  :    https://instagram.com/mass.ff?utm_medium=copy_link
