@@ -7,22 +7,20 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://images.wallpapersden.com/image/download/pokemon-detective-pikachu-4k_a2lrZmWUmZqaraWkpJRsZ2WtbGdl.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/wdYhaBH.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot created by Ameer Suhail*
-*Creator number : wa.me/919946432377?text=Hi%20Ameer%20Suhail.%20*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*LILLY_MWOLE CREATED BY CARLOX_MASS-SER*
+*Creator number : http://wa.me/918078073223?text=Hi%20Mass%20Ser.%20*
 
-*Bot setting video : https://youtu.be/_D4ZYuUSXjs*
+*CARLOX INSTAGRAM : https://instagram.com/__.carlox.__?utm_medium=copy_link
 
-*Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
+*MASS INSTAGRAM  :    https://instagram.com/mass.ff?utm_medium=copy_link
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Githublink (Setup)  :    https://github.com/Carlox-ser-mass-ser/Lilly-mwol*
 
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*LILLY MWOLE IS HERE .UPDATE=FOR CHECK UPDATES*
 
-*Video For Setting Bot : https://youtu.be/_D4ZYuUSXjs* 
-
-*For More Updates Subscribe The Channel ☝*
+*For More Updates follow carlox & mass in instagram*
 `}) 
 
 }));
