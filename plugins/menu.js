@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+    r_text[0] = "https://i.imgur.com/wdYhaBH.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -120,8 +120,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime pikachu
-■□■□■□■□■Pikachu□■□■□■□■□■□
+⚠️anime LillyMwol
+■□■□■□■□■LillyMwol□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
