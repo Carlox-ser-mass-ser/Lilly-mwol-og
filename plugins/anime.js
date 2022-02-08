@@ -10,7 +10,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/FwPP04q/images.jpg";
+    r_text[0] = "https://i.imgur.com/wdYhaBH.jpeg";
     r_text[1] = "https://i.ibb.co/GH2tWJ4/images-1.jpg";
     r_text[2] = "https://i.ibb.co/Mf79pVH/download.jpg";
     r_text[3] = "https://i.ibb.co/b11BDWH/images-2.jpg";
