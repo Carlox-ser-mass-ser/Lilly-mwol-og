@@ -28,7 +28,7 @@
         "admin": {
             "BAN_DESC": "groupil nin arellum porth akaan. ayallude messagin reply cheyu allenkill tag cheyyu.",
             "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
-            "BANNED": "Mwonu Ok Bie!",
+            "BANNED": "Mwonu lilly paranja keknm keto ini no chance bei!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "groupilott keteekn!",
@@ -72,7 +72,7 @@
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart pinkymwol\n",
+            "RESTART_DESC": "\nRestart Lilly_mwol\n",
             "RESTART_MSG": "```punararambikkunu...```",
             "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
             "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
@@ -149,7 +149,7 @@
         },
         "profile": {
             "KICKME_DESC": "enne groupill nin purath akaan.",
-            "KICKME": "```Bye bye! njan povunnu 🤠```",
+            "KICKME": "```Bye bye! njan povunnu lilly_mwole 🥺🤠```",
             "PP_DESC": "reply cheytha chithram profil akkaan.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```profile maattunnu...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```Ippam Sheriyaakithara 🤠```"
+            "DOWNLOADING": "```lilly-mwole epom set aki thera```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
@@ -219,11 +219,11 @@
             "UPDATE": "*ningalude bot up-to-date aan!*",
             "NEW_UPDATE": "*Pikachu Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
-            "UPDATING": "```Updating..🐥```",
+            "UPDATING": "```LILLY IS UPDATING 😌❤️```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
-            "UPDATED": "*Updated 🤠✅*",
+            "UPDATED": "*LILLY UPDATED😌✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Pikachu Restarting..*"
+            "AFTER_UPDATE": "*😎 LILLY IS Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
