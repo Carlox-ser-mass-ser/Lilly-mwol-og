@@ -68,7 +68,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
 <p align="center">
-Click Pikachu logo to Join Support Group 2ðŸ‘‡
+Click Lilly-Mwol logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BcR51OKZoreHnLJl40xkIN target="blank"><img align="center" src="https://i.imgur.com/bLMrXqz.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -79,7 +79,7 @@ Click Pikachu logo to Join Support Group 2ðŸ‘‡
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
+[![Run on Repl.it](https://i.imgur.com/oJwTLaU.jpeg)](https://replit.com/@Lilly201/Ajuser-Qr-1#index.js)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol.git)
      </div>
