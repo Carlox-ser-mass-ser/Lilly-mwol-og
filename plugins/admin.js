@@ -4,7 +4,7 @@ Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
 WhatsAsena - Yusuf Usta
-*/
+
 
 const {MessageType, GroupSettingChange} = require('@adiwajshing/baileys');
 const Asena = require('../events');
@@ -1591,3 +1591,7 @@ Asena.addCommand({pattern: 'invite ?(.*)', fromMe: true, onlyGroup: true, desc: 
 module.exports = {
     checkImAdmin: checkImAdmin
 };
+
+
+
+*/
