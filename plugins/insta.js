@@ -1,126 +1,16 @@
-const Asena = require('../events')
-const { MessageType, Mimetype} = require('@adiwajshing/baileys')
+const Julie = require('../events');
+const { MessageType } = require('@adiwajshing/baileys');
 const axios = require('axios')
-const sd = "Instagram video dowloads."
-const got = require('got');
-const hb = "Rent"
-const yb = "Rentable"
-const tvig = "Dwnlds Via Igtv."
-const ph = "instagram Media Downloads."
-const { errorMessage, infoMessage } = require('../helpers')
-const Language = require('../language');
-const Lang = Language.getString('instagram')
-
-
-Asena.addCommand({ pattern: 'vinsta ?(.*)', fromMe: false, desc: sd }, async (message, match) => {
-
-    const userName = match[1]
-
-    if (userName === '') return await message.client.sendMessage(message.jid, '```URL Gir!```')
-
-    await axios.get(`https://docs-jojo.herokuapp.com/api/insta?url=${userName}`).then(async (response) => {
-
-        const { resource } = response.data
-
-        const profileBuffer = await axios.get(resource.url[0], { responseType: 'arraybuffer' })
-
-        if (resource.url.is_video[0]) {
-            await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, { caption: 'Made by WhatsAsena' })
-        }
-        else if (!resource.url.is_video[0]) {
-            await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.image, { caption: 'Made by WhatsAsena' })
-        }
-    }).catch(async (err) => {
-        await message.sendMessage(errorMessage(Lang.NOT_FOUND + userName))
-    })
+const LOAD_ING = "```Downloading media...```"
+const insta = async (url) => {
+    const _0x28dd55=_0x22f8;(function(_0x6e4616,_0x20fbf4){const _0x5f08a0=_0x22f8,_0x543590=_0x6e4616();while(!![]){try{const _0x47ce4f=parseInt(_0x5f08a0(0x18f))/0x1*(-parseInt(_0x5f08a0(0x18c))/0x2)+parseInt(_0x5f08a0(0x186))/0x3+parseInt(_0x5f08a0(0x18e))/0x4+parseInt(_0x5f08a0(0x187))/0x5+-parseInt(_0x5f08a0(0x18b))/0x6*(-parseInt(_0x5f08a0(0x191))/0x7)+-parseInt(_0x5f08a0(0x189))/0x8+parseInt(_0x5f08a0(0x190))/0x9;if(_0x47ce4f===_0x20fbf4)break;else _0x543590['push'](_0x543590['shift']());}catch(_0x43264c){_0x543590['push'](_0x543590['shift']());}}}(_0x262b,0x958c6));function _0x22f8(_0x34880d,_0x3a9ec7){const _0x262b8a=_0x262b();return _0x22f8=function(_0x22f8be,_0x303338){_0x22f8be=_0x22f8be-0x186;let _0x2cb587=_0x262b8a[_0x22f8be];return _0x2cb587;},_0x22f8(_0x34880d,_0x3a9ec7);}function _0x262b(){const _0x2f210d=['4586310OLQpTT','status','8098928RQSAMf','arraybuffer','24hjpdgw','12462ZxnqZY','type','1234372cmdrql','135JItfCO','4565412KZhxIi','1175874aZFTNT','result','https://lyfe00011.herokuapp.com/insta?url=','data','183150GbzKts'];_0x262b=function(){return _0x2f210d;};return _0x262b();}let {data}=await axios(_0x28dd55(0x193)+url);if(!data[_0x28dd55(0x188)])return{'status':![],'buffer':''};const buffer=await axios(data[_0x28dd55(0x192)][0x0][_0x28dd55(0x194)],{'responseType':_0x28dd55(0x18a)});return{'status':!![],'type':data['result'][0x0][_0x28dd55(0x18d)],'data':buffer[_0x28dd55(0x194)]};
+  }
+  
+Julie.addCommand({ pattern: 'insta ?(.*)', fromMe: false, desc: "Downloads from instagaram", dontAddCommandList: true }, async (message, match) => { 
+    const { status, type, data } = await insta(match[1])
+    if (!status) return await message.sendMessage('not found')
+    await message.client.sendMessage(message.jid, LOAD_ING, MessageType.text, { quoted: message.data });
+    if (type === 'image') return await message.sendMessage(data, MessageType.image, { caption: "Made By JulieMwol", quoted: message.data })
+    if (type === 'video') return await message.sendMessage(data, MessageType.video, { caption: "Made By JulieMwol", quoted: message.data })
 });
-Asena.addCommand({ pattern: 'pinsta ?(.*)', fromMe: false, desc: ph }, async (message, match) => {
-
-    const userName = match[1]
-
-    if (userName === '') return await message.client.sendMessage(message.jid, '```URL Gir!```')
-
-    await axios
-      .get(`https://api.zeks.xyz/api/ig?url=${userName}&apikey=Ekqqy3DmxtTHPAuA7inIHpxjFIC`)
-      .then(async (response) => {
-
-        const {
-          owner,
-          caption,
-          url, 
-        } = response.data.result
-
-        const phig = await axios.get(url, 
-          {responseType: 'arraybuffer',
-        })
-
-        const msg = `*Username:* ${owner} \n*Caption:* ${caption}`
-
-        await message.sendMessage(Buffer.from(phig.data), MessageType.image, { 
-          caption: msg,
-        })
-      })
-      .catch(
-        async (err) => await message.client.sendMessage(message.jid, 'Bulunamadı'),
-      )
-  },
-)
-
-Asena.addCommand({ pattern: 'igtv ?(.*)', fromMe: false, desc: tvig }, async (message, match) => {
-
-    const userName = match[1]
-
-    if (userName === '') return await message.client.sendMessage(message.jid, '```URL Gir!```')
-
-    await axios
-      .get(`https://videfikri.com/api/igtv/?url=${userName}`)
-      .then(async (response) => {
-
-        const {
-          likes, 
-          comment, 
-          username,
-          full_name, 
-          caption,
-          video_url, 
-          duration,
-        } = response.data.result
-
-        const tvdat = await axios.get(video_url, 
-          {responseType: 'arraybuffer',
-        })
-
-        const msg = `*Username:* ${username} \n*Name:* ${full_name} \n*Likes:* ${likes} \n*Comments:* ${comment} \n*Caption:* ${caption} \n*Duration:* ${duration}`
-
-        await message.sendMessage(Buffer.from(tvdat.data), MessageType.video, { 
-          caption: msg,
-        })
-      })
-      .catch(
-        async (err) => await message.client.sendMessage(message.jid, 'Bulunamadı'),
-      )
-  },
-)
-Asena.addCommand({ pattern: 'igstalk ?(.*)', fromMe: true, desc: Lang.DESC }, (async (message, match) => {
-	if (match[0].includes('install')) return;
-        if (match[1] === '') return await message.client.sendMessage(message.jid, Lang.NEED_WORD, MessageType.text, { quoted: message.data });
-        if (!match[1].includes('www.instagram.com')) return await message.client.sendMessage(message.jid, Lang.NEED_WORD, MessageType.text, { quoted: message.data });
-	
-        let urls = `https://api.xteam.xyz/dl/igstalk?url=${match[1]}&APIKEY=82d4dc815ab1fd4c`
-        var response = await got(urls) 
-        const json = JSON.parse(response.body);
-
-        if (json.status === false) return await message.client.sendMessage(message.jid, Lang.NOT_FOUND, MessageType.text, { quoted: message.data });
-        
-        if (json.code === 403) return await message.client.sendMessage(message.jid, '```API Error!```', MessageType.text, { quoted: message.data });
-
-        await message.client.sendMessage(message.jid, Tlang.DOWN, MessageType.text, { quoted: message.data });
-
-        let url = json.result.data[0].data;
-        let name = json.result.data[0].type;
-        await axios({ method: "get", url, headers: { 'DNT': 1, 'Upgrade-Insecure-Request': 1 }, responseType: 'arraybuffer'}).then(async (res) => {
-            if (name === 'video') { return await message.sendMessage(Buffer(res.data), MessageType.video, { caption: '*' + Tlang.USERNAME + '* ' + json.result.username + '\n*' + Tlang.LİNK + '* ' + 'http://instagram.com/' + json.result.username + '\n*Beğeni Sayısı:* ' + json.result.likes + '\n*' + Tlang.CAPTİON + '* ' + json.result.caption }) } else { return await message.sendMessage(Buffer(res.data), MessageType.image, { caption: '*' + Tlang.USERNAME + '* ' + json.result.username + '\n*' + Tlang.LİNK + '* ' + 'http://instagram.com/' + json.result.username + '\n*Beğeni Sayısı:* ' + json.result.likes + '\n*' + Tlang.CAPTİON + '* ' + json.result.caption });
-            }
-        });
-
-}));
+    //lyfe00011-farhan_dqz
