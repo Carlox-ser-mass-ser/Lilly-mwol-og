@@ -187,7 +187,7 @@
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
             "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
-            "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
+            "LILLY-MWOL UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
@@ -217,7 +217,7 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*Pikachu Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*LILLY-MWOL 🖤 Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```LILLY IS UPDATING 😌❤️```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
