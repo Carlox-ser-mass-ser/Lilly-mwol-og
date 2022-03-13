@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 
 GUYS ITS ME 😌⚡️CARLOX & MASS-SER😌⚡️.
-                   *LillyMwol*
+            LILLY-MWOL 
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -133,7 +133,7 @@ GUYS ITS ME 😌⚡️CARLOX & MASS-SER😌⚡️.
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
 ⚠️ex  attp LillyMwol
-        💜∞∞∞∞∞∞∞∞∞∞∞💜
+     💜∞∞∞∞∞∞∞∞∞∞∞💜
 ═════💢LillyMwol💢═════
 ▣▣▣⚡️Carlox & Mass⚡️▣▣▣▣
 
