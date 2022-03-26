@@ -79,7 +79,7 @@ Click Lilly-Mwol logo to Join Support Group 2ðŸ‘‡
 
   ### Simple Method
   
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@CarloxMassser/pikachu-QR-4)
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://early-pie-production.up.railway.app/qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol.git)
      </div>
