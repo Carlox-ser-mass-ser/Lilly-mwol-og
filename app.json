@@ -9,11 +9,7 @@
         "CONNECTION_CODE": {
             "description": "Asena session changed! Type your lilly-mwol code here.",
             "required": true
-        },
-        "SUDO": {
-            "description": "Type 917356835535,0,918078073223,0 ! Type like this important. Dnt enter your number 🙃❤‍🩹",
-            "required": false
-     
+        
         },
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
