@@ -177,7 +177,7 @@
             "LANG": "Language",
             "FROM": "Translated Language",
             "RESULT": "Translate",
-            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan Join LILLY FAM https://chat.whatsapp.com/BcR51OKZoreHnLJl40xkIN",
+            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan Join LILLY FAM https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK",
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*LILLY_MWOLE Update Available😌❤️*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan JOIN OUR LILLY FAM BY:-MASS-SER & CARLOX 😎https://chat.whatsapp.com/BcR51OKZoreHnLJl40xkIN+ \n\nChanges:\n```",
+            "NEW_UPDATE": "*LILLY_MWOLE Update Available😌❤️*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan JOIN OUR LILLY FAM BY:-MASS-SER & CARLOX 😎https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK+ \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```LILLY MWOLE IS ON UPDATE....♫♫❤︎```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated 🤠✅*",
+            "UPDATED": "*Updated 🥳✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😌 LillyMwol Restarting💜*"
+            "AFTER_UPDATE": "*😌 LillyMwol Restarting💜👅*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
