@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![Lilly-mwol](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+lillymwol+WA+Bot+repo;Created+by+Carlox-ser-mass-ser;This+is+the+Best++Bgm+bot;CREATED+BY+Carlox-ser-mass-ser)](https://bit.ly/2VM4lxF)
+## [![Lilly-mwol](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+lillymwol+WA+Bot+repo;Created+by+𝑪𝑨𝑹𝑳𝑶𝑿-ser-mass-ser;This+is+the+Best++Bgm+bot;CREATED+BY+Carlox-ser-mass-ser)](https://bit.ly/2VM4lxF)
 
         
         
@@ -62,7 +62,7 @@ Project created by <a href="https://github.com/Carlox-ser-mass-ser/Lilly-mwol">C
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BcR51OKZoreHnLJl40xkIN" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -71,7 +71,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click Lilly-Mwol logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BcR51OKZoreHnLJl40xkIN target="blank"><img align="center" src="https://i.imgur.com/bLMrXqz.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK target="blank"><img align="center" src="https://i.imgur.com/bLMrXqz.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
