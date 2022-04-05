@@ -71,7 +71,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click Lilly-Mwol logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK target="blank"><img align="center" src="https://i.imgur.com/bLMrXqz.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK" target="blank"><img align="center" src="https://i.imgur.com/bLMrXqz.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
