@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![Lilly-mwol](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+lillymwol+WA+Bot+repo;Created+by+𝑪𝑨𝑹𝑳𝑶𝑿-ser-mass-ser;This+is+the+Best++Bgm+bot;CREATED+BY+Carlox-ser-mass-ser)](https://bit.ly/2VM4lxF)
+## [![Lilly-mwol](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+lillymwol+WA+Bot+repo;Created+by+𝑪𝑨𝑹𝑳𝑶𝑿-ser-mass-ser;This+is+the+Best++Bgm+bot;CREATED+By+Carlox-ser-mass-ser)](https://bit.ly/2VM4lxF)
 
         
         
