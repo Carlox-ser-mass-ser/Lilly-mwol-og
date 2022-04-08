@@ -2,7 +2,8 @@ FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/Carlox-ser-mass-ser/Lilly-mwol /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
-ENV TZ=Asia/Kolkata
+ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
-RUN yarn install --ignore-engines
+RUN yarn install --no-audit
+
 CMD ["node", "bot.js"]
