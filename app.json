@@ -3,7 +3,7 @@
     "description": "Lilly-mwol",
     "logo": "https://avatars.githubusercontent.com/u/99211048?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Carlox-ser-mass-ser",
+    "repository": "https://github.com/Carlox-ser-mass-ser/Lilly-mwol",
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
